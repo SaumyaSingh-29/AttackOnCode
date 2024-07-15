@@ -1,2 +1,2 @@
 # AttackOnCode
-Code repo for AI fashion model  for Myntra's WeForShe
+Code repo for AI fashion model  for Myntra's HackerRamp WeForShe
